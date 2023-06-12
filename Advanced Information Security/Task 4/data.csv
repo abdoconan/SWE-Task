@@ -1,0 +1,13 @@
+ThreatCategory,CostPerIncident,FrequencyOfOccurrencesPerYear
+Programmer mistake, 5000, 52
+Loss of intellectual property, 75000, 1
+Software Priacy, 500, 52 
+Theft of information (hacker), 2500, 4
+Theft of information (employee), 5000, 2
+Web defacement, 500, 12
+Theft of equipment, 5000, 1
+Viruses - worms - torojan horses, 1500, 52
+Denial-of-service attack, 2500, 3
+Earthquake, 250000, 0.05 
+Flood, 250000, 0.05 
+Fire, 250000, 0.05 
